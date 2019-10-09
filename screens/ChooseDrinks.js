@@ -19,7 +19,8 @@ const ITEMS = [
     { id: '14', title: 'Laško', price: 18 },
     { id: '15', title: 'Heiniken', price: 25 },
     { id: '16', title: 'Stella Artois', price: 25 },
-    { id: '17', title: 'Crno pivo', price: 26 }
+    { id: '17', title: 'Crno pivo', price: 26 },
+    { id: '18', title: 'Leffe', price: 28}
 ];
 
 const width = Dimensions.get('window').width;
