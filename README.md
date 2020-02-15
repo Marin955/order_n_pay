@@ -1,3 +1,3 @@
 # order_n_pay
 
-Aplikacija za naručivanje pića
+Basic GUI written in React Native.
